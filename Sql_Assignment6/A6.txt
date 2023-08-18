@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Sql_Assignment6, Configuration: Debug Any CPU ------
+1>  Sql_Assignment6 -> F:\Sql Sever Assignments\Day6(18-08-23)\Assignment 6\Soln\Sql_Assignment6\Sql_Assignment6\bin\Debug\Sql_Assignment6.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 3:55 PM and took 00.776 seconds ==========
